@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="corporate" />
+      <option name="name" value="Rabobank Maven Corporate Repository" />
+      <option name="url" value="https://maven.rabobank.nl/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="rabo-snapshots" />
+      <option name="name" value="rabo-snapshots" />
+      <option name="url" value="https://maven.rabobank.nl/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="xebialabs-releases" />
+      <option name="name" value="xebialabs-releases" />
+      <option name="url" value="https://maven.rabobank.nl/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshot" />
+      <option name="name" value="Rabo: Corporate Financing Releases" />
+      <option name="url" value="https://maven.rabobank.nl/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="snapshots" />
+      <option name="name" value="snapshots" />
+      <option name="url" value="https://maven.rabobank.nl/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="private-financing-release" />
+      <option name="name" value="Rabobank Release Repository" />
+      <option name="url" value="https://maven.rabobank.nl/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="private-financing-snapshots" />
+      <option name="name" value="Rabobank private financing Snapshot Repository" />
+      <option name="url" value="https://maven.rabobank.nl/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="corporateRepo" />
+      <option name="name" value="corporateRepo" />
+      <option name="url" value="https://maven.rabobank.nl/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="corporate-financing-release" />
+      <option name="name" value="Rabobank Corporate Finance Release Repository" />
+      <option name="url" value="https://maven.rabobank.nl/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="central" />
+      <option name="url" value="https://maven.rabobank.nl/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="corporateSnapshotRepo" />
+      <option name="name" value="corporateSnapshotRepo" />
+      <option name="url" value="https://maven.rabobank.nl/nexus/content/groups/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="mavenCentral" />
+      <option name="name" value="mavenCentral" />
+      <option name="url" value="https://maven.rabobank.nl/nexus/content/groups/public" />
+    </remote-repository>
+  </component>
+</project>
