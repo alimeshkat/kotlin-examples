@@ -8,7 +8,7 @@ class Nullability {
     fun `no more null pointers`() {
 
         val data = Dto("Some data")
-//        data.metadata.value
+//        data.metadata.value // The compiler enforces the null check!
 
     }
 }
