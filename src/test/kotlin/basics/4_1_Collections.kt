@@ -8,7 +8,7 @@ val list: List<String> = listOf("A", "B", "C")
 class Collections {
 
     @Test
-    fun `collection operations`() {
+    fun `mutable vs immutable`() {
 //        mutableList.add("D")
 //        list.add("D")
     }
