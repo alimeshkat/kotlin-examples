@@ -16,7 +16,7 @@ class ControlFlow {
 //if else
 
 fun yesOrNo(question: String): Boolean {
-    TODO()
+    TODO("return the if else statement")
 }
 
 
@@ -25,7 +25,7 @@ fun yesOrNo(question: String): Boolean {
 //when COLD -> "Rain coat"
 
 fun chooseClothes(temp: Weather) = when (temp) {
-    TODO("") -> ""
+    TODO("implement when statement") -> ""
 }
 
 sealed class Weather(val value: String) {

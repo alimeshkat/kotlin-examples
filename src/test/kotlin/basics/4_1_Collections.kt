@@ -10,7 +10,7 @@ class Collections {
     @Test
     fun `mutable vs immutable`() {
 //        mutableList.add("D")
-//        list.add("D")
+//        list.add("D") // Wont compile!
     }
 }
 
