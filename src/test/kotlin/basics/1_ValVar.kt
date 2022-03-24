@@ -7,7 +7,6 @@ var variable: String = "Re-assignable"
 
 class ValVar {
 
-
     @Test
     fun `val vs var`() {
 //        constant = "new value" //Wont compile
