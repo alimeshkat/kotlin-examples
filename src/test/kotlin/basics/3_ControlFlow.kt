@@ -22,7 +22,7 @@ fun yesOrNo(question: String): Boolean {
 
 //when WARM -> "t-shirt"
 //when COLD -> "Jacket"
-//when COLD -> "Rain coat"
+//when RAINY -> "Rain coat"
 
 fun chooseClothes(temp: Weather) = when (temp) {
     TODO("implement when statement") -> ""
